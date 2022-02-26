@@ -31,11 +31,12 @@ interesting to me as well.
 change_in_jail_pop_2008to2018
 ```
 
+##### The following values in the summary show the comparison of the amount of people in Washington by ethnicity and the the amount of people in jail by ethnicity. I then choseto find the proportion of people of these two numbers to determine if there are more percentage of people in jail for there given ethnicity compared to the white population in Washington. This calculation was interesting because it showed that Native Americans and Black people had a much higher chance of being in jail than white people but Asian Americans/Pacific Islanders and the Latinx population had a lower chance than white people to be in jail based on the amount for each ethnicity in Washingtons population.
+
 ##### Shows the Native American population jail difference to White population
 ```{r, echo = FALSE}
 jail_vs_pop_native_to_white
 ```
-##### The following values in the summary show the comparison of the amount of people in Washington by ethnicity and the the amount of people in jail by ethnicity. I then choseto find the proportion of people of these two numbers to determine if there are more percentage of people in jail for there given ethnicity compared to the white population in Washington. This calculation was interesting because it showed that Native Americans and Black people had a much higher chance of being in jail than white people but Asian Americans/Pacific Islanders and the Latinx population had a lower chance than white people to be in jail based on the amount for each ethnicity in Washingtons population.
 
 ##### Shows the Black population jail difference to White population
 ```{r, echo = FALSE}
